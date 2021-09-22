@@ -26,8 +26,8 @@ void setup() {
 
   w = width;
   h = height;
-  img1 = loadImage("gear_red.png");
-  img2 = loadImage("virus.png");
+  img1 = loadImage("a.png");
+  img2 = loadImage("b.png");
 }
 
 void draw() {
